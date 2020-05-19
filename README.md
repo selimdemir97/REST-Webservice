@@ -1,9 +1,11 @@
 # REST-Webservice
-A RESTful Webservice using the Instagram and Bing Maps API
 
+DE:
 Das Projekt ist eine zuvor abgegebene Studienarbeit. Es handelt sich hierbei um eine REST-ful Webservice, in welcher die Instagram API mit der Bing Maps Api verknüpft wurde um Bilder auf einer Karte darzustellen. Im Projekt enthalten ist eine REST-Schnittstelle, welcher mit dem Framework Express.js entwickelt wurde.
 
 Der Kern des Projekts ist im 'routes' Verzeichnis.
-Für den Start wird Node.JS und MongoDB benötigt.
-Das Projekt kann mit dem command 'npm start' gestartet werden.
-Für den Start werden die im Projekt verwendeten Node.JS Module benötigt. Dafür den command 'nmp install' eintippen.
+
+EN:
+A RESTful Webservice using the Instagram and Bing Maps API. This Project was a Team-Project for my studies. I did the Backend logics building a RESTful enviroment to process requests with Express.JS and save them into the MongoDB database. The goal was to point the pictures of your friends taken from instagram on a map. You can add your friends on the webservice specifically.
+
+The core project I was working on is in the 'routes' folder.
