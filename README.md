@@ -6,6 +6,6 @@ Das Projekt ist eine zuvor abgegebene Studienarbeit. Es handelt sich hierbei um 
 Der Kern des Projekts ist im 'routes' Verzeichnis.
 
 EN:
-A RESTful Webservice using the Instagram and Bing Maps API. This Project was a Team-Project for my studies. I did the Backend logics building a RESTful enviroment to process requests with Express.JS and save them into the MongoDB database. The goal was to point the pictures of your friends taken from instagram on a map. You can add your friends on the webservice specifically.
+A RESTful Webservice using the Instagram and Bing Maps API. This Project was a team project for my studies. I did the backend logics building a RESTful enviroment and to process requests with Express.JS and save them into the MongoDB database. The goal was to put the pictures of your friends taken from their instagram account on a map.
 
-The core project I was working on is in the 'routes' folder.
+The core project is in the 'routes' folder.
